@@ -1,3 +1,15 @@
 html{
     background-color: black;
 }
+
+/* sintaxis de css
+selector,etiqueta,clas,ID {
+Propiedad:valor;
+Propiedad:valor;
+Propiedad:valor;
+} */
+
+h1{
+color: green;
+text-align: center;
+}
